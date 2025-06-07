@@ -178,36 +178,3 @@ npm run build
 
 # Análisis del bundle
 npm run analyze
-```
-
-### API Documentation
-
-Una vez que el backend esté ejecutándose, puedes acceder a la documentación interactiva de la API en:
-- Swagger UI: `http://localhost:8000/docs`
-- ReDoc: `http://localhost:8000/redoc`
-
-## 🤝 Contribución
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## ⚠️ Disclaimer
-
-Este proyecto no está afiliado con Riot Games. League of Legends es una marca registrada de Riot Games, Inc.
-
-## 📞 Soporte
-
-Si tienes preguntas o necesitas ayuda:
-- Abre un issue en GitHub
-- Consulta la documentación en `/docs`
-
----
-
-**¡Domina la jungla con IA! 🌲⚔️** 
