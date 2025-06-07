@@ -1,0 +1,11 @@
+# Dependencias básicas sin versiones fijas
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-dotenv
+httpx
+pydantic
+pydantic-settings
+anthropic
+python-multipart
+cryptography

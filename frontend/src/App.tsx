@@ -18,7 +18,7 @@ function App() {
           <Navigation />
         </Toolbar>
       </AppBar>
-      
+
       <Container maxWidth="xl" sx={{ mt: 4, mb: 4 }}>
         <Routes>
           <Route path="/" element={<Dashboard />} />
@@ -31,4 +31,4 @@ function App() {
   );
 }
 
-export default App; 
+export default App;

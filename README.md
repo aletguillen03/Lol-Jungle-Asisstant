@@ -92,7 +92,7 @@ lol-jungle-assistant/
 
 4. **Configurar variables de entorno**:
    ```bash
-   cp env.example .env
+   cp .env .env
    ```
    
    Editar `.env` con tus API keys:
